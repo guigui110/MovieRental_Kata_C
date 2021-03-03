@@ -7,7 +7,7 @@ int main()
     Movie newrelease("zhanlang2", Movie::NEW_RELEASE);
     Rental rental(regular, 3);
     Rental rental2(newrelease, 1);
-    Customer customer("xuguibin");
+    Customer customer("Jason");
     customer.AddRental(rental);
     customer.AddRental(rental2);
 
