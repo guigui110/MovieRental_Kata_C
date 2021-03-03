@@ -1,2 +1,2 @@
-# MovieRental_Kata_C
-An example of refactoring kata, which wirten in C language named "Movie Rental"
+# MovieRental_Kata_C++
+An example of refactoring kata named "Movie Rental", which is wirten in C++ language.
